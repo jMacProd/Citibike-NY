@@ -29,7 +29,7 @@ The scatterplot indicates trip numbers for the time of day (Aggregated from the 
 
 The data could be made more usefully if it included the last time a bike was serviced. Usage could be then measured from that date. Information around how often a bike needs to receive maintenance on average to keep it running at it’s optimum could inform the thresholds used to measure maintenance priority.
 
-![D1 - Maintenance requirements vs Availability requirments](Images/citi-bike-station-bikes.jpg)
+![D1 - Maintenance requirements vs Availability requirments](https://raw.githubusercontent.com/jMacProd/Citibike-NY/main/Images/D1%20-%20Maintenance%20requirements%20vs%20Availability%20requirments.png)
 
 ## Dashboard 2: Usage by Gender vs Age
 * Worksheet: Number of trips by Gender vs Age groups
@@ -46,7 +46,7 @@ The line chart not surprisingly shows the 30s age bracket as generally the most 
 
 The hour of the day area chart has little impact on gender use of the bikes. It follows the usual trend determined in Dashboard 1. 
 
-![D2 - Usage by Gender vs Age](Images/citi-bike-station-bikes.jpg)
+![D2 - Usage by Gender vs Age](https://raw.githubusercontent.com/jMacProd/Citibike-NY/main/Images/D2%20-%20Usage%20by%20Gender%20vs%20Age.png)
 
 ## Dashboard 3: Popular Station Maps
 * Worksheet: Popular Start Stations
@@ -73,7 +73,8 @@ Thanks to Google and Google Maps, here’s some potential reason for the high us
 
 Although not a lot of stopping station data was different to the starting station data, using the dynamic date slider, it shows that in the summer months there were some stopping stations scattered around the other areas of New York.
 
-![D3 - Popular stations](Images/citi-bike-station-bikes.jpg)
+![D3 - Popular stations](https://raw.githubusercontent.com/jMacProd/Citibike-NY/main/Images/D3%20-%20Popular%20stations.png
+)
 
 ## Story 1: Maintenance requirement versus availability
 * Worksheet: 12 months of bike usage by number of trips
