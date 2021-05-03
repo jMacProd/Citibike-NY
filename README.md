@@ -10,6 +10,9 @@ Tableau visualisations of Citibike New York Data
     * Dec 21st – March 19th 2020 (Winter)
 * COVID restrictions in New York City throughout 2020 may have resulted in limited data as it is concentrated in Jersey City
 
+## Link to Tableau Public Visualisations
+https://public.tableau.com/profile/jays2032#!/vizhome/CitiBikeAnalytics_16191535914530/D2-UsagebyGendervsAge?publish=yes
+
 ## Dashboard 1: Maintenance requirements vs Availability requirements
 * Worksheet: 12 months of bike usage by time
 * Worksheet: Number of trips vs Avg trip duration over time
